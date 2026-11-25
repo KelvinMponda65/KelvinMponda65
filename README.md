@@ -1,27 +1,125 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kelvin Mponda
-======================================================================================================================================
+<div align="center">
 
-Software Engineer and Data Scientist
-------------------------------------
+# Hi, I'm Kelvin Mponda 👋
 
-* 🌍  I'm based in Lilongwe, Malawi.
-* 🖥️  See my portfolio at [KelvinMponda](http://https://kelvin-mponda.vercel.app/)
-* ✉️  You can contact me at [kelvinmponda47@gmail.com](mailto:kelvinmponda47@gmail.com)
-* 🧠  I'm currently learning Data Science, Machine Learning and Financial Engineering.
-* 👥  I'm looking to collaborate on AI Projects.
+### Software Engineer · IT Administrator · Data Science & AI Enthusiast
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" alt="Alchemy" title="Alchemy" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+<a href="https://kelvin-mponda.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:kelvinmponda47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/kelvin-mponda-902b902b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://github.com/KelvinMponda65">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+useful+software+and+digital+solutions;Turning+operational+data+into+insights;Exploring+Machine+Learning+and+AI;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+
+📍 Lilongwe, Malawi
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer and IT professional interested in building practical technology that solves real-world problems. My work sits at the intersection of **software development, systems administration, data, and business operations**.
+
+I enjoy building software that solves problems; from web applications and backend APIs to workflow automation and data-driven tools. I'm particularly interested in connecting technology with real operational needs and turning ideas into useful, maintainable solutions.
+
+I'm also developing my skills in **Data Science, Machine Learning, and Financial Engineering**. I enjoy learning how data can be transformed into useful insights, better decisions, and intelligent applications.
+
+- 🔭 **Currently working on:** Business systems, workflow improvement, and operational data solutions.
+- 🌱 **Currently learning:** Data Science, Machine Learning, and Financial Engineering.
+- 🤖 **Interested in:** AI applications, predictive modelling, automation, and data-driven products.
+- 🤝 **Open to:** Collaborating on meaningful software, data, and AI projects.
+- 📫 **Reach me:** [kelvinmponda47@gmail.com](mailto:kelvinmponda47@gmail.com)
+- 🌐 **Portfolio:** [kelvin-mponda.vercel.app](https://kelvin-mponda.vercel.app)
+
+## 🧭 What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Software Engineering</h3>
+      <p>Designing and developing web applications, APIs, backend services, and digital tools that address practical needs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ IT & Systems Administration</h3>
+      <p>Supporting business technology, troubleshooting systems, improving reliability, and identifying opportunities for automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data & Analytics</h3>
+      <p>Exploring data preparation, analysis, visualisation, reporting, and forecasting to support better operational decisions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI & Machine Learning</h3>
+      <p>Building my understanding of machine learning and exploring how intelligent systems can solve relevant problems.</p>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Areas
+
+- **Business process digitisation** — replacing repetitive manual processes with more reliable digital workflows.
+- **Operational data systems** — connecting data capture, reporting, reconciliation, and analysis.
+- **Web applications & APIs** — building frontend experiences and backend services.
+- **Applied AI and machine learning** — learning to develop data-driven solutions with practical impact.
+
+
+## 🧰 Technologies & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp,html,css" alt="Programming languages" />
 </p>
 
-### Socials
+### Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,flutter" alt="Frontend and mobile technologies" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/KelvinMponda65" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/kelvin-mponda-902b902b8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,postgres,mysql,mongodb,firebase,supabase" alt="Backend and database technologies" />
+</p>
 
-<b>My GitHub Stats</b>
+### Tools, Cloud & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,figma,ps,wordpress,arduino,vscode" alt="Tools and platforms" />
+</p>
 
-<a href="http://www.github.com/KelvinMponda65"><img src="https://github-readme-stats.vercel.app/api?username=KelvinMponda65&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="KelvinMponda65's GitHub stats" /></a>
+## 📈 GitHub at a Glance
 
-<a href="http://www.github.com/KelvinMponda65"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinMponda65&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KelvinMponda65&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KelvinMponda65&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Kelvin's GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMponda65&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinMponda65&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
+
+</div>
+
+## 🌐 Let's Connect
+
+I'm always interested in meeting people who are building useful things with technology, especially in software engineering, data, and AI.
+
+- **GitHub:** [@KelvinMponda65](https://github.com/KelvinMponda65)
+- **LinkedIn:** [Kelvin Mponda](https://www.linkedin.com/in/kelvin-mponda-902b902b8)
+- **Email:** [kelvinmponda47@gmail.com](mailto:kelvinmponda47@gmail.com)
+- **Portfolio:** [kelvin-mponda.vercel.app](https://kelvin-mponda.vercel.app)
+
+<div align="center">
+
+_“Building, learning, and using technology to make a difference.”_
+
+<img src="https://komarev.com/ghpvc/?username=KelvinMponda65&style=flat-square&color=58a6ff&label=Profile+views" alt="Profile views" />
+
+</div>
